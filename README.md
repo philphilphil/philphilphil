@@ -2,13 +2,14 @@
 Coding C# for work and Rust 🦀 for pleasure.
 
 I’m interested in working with markdown files hence my projects:
-- ☑️ [modo](https://github.com/philphilphil/modo) - CLI to query todos in markdown files
-- 📋 [downcel](https://github.com/philphilphil/downcel) - md table calculations with excel-like formulas
+- ☑️ [modo](https://github.com/philphilphil/modo) - CLI to query todos in markdown files.
+- 📋 [downcel](https://github.com/philphilphil/downcel) - md table calculations with excel-like formulas.
 - ⭕ [jira-to-md-todo](https://github.com/philphilphil/jira-to-md-todo) - Tiny app that synchronizes Jira tickets into a markdown file as to-dos. 
 
 Other projects:
-- 📰 [RSS2Pushover](https://github.com/philphilphil/RSS2Pushover) - Small app which reads an RSS feed and sents new entries to Pushover 
-- ♟️ [Spot](https://github.com/philphilphil/Spot) - (very bad) chess engine for fun 
+- 📰 [RSS2Pushover](https://github.com/philphilphil/RSS2Pushover) - Small app which reads an RSS feed and sents new entries to Pushover.
+- ♟️ [Spot](https://github.com/philphilphil/Spot) - (very bad) chess engine for fun.
+- 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages (can keep images) in discord channels.
 
 <!---
 philphilphil/philphilphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
