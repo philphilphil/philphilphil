@@ -9,7 +9,7 @@ I’m interested in working with markdown files hence my projects:
 Other projects:
 - 📰 [RSS2Pushover](https://github.com/philphilphil/RSS2Pushover) - Small app which reads an RSS feed and sents new entries to Pushover.
 - ♟️ [Spot](https://github.com/philphilphil/Spot) - (very bad) chess engine for fun.
-- 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages (can keep images) in discord channels.
+- 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages in discord channels.
 
 <!---
 philphilphil/philphilphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
