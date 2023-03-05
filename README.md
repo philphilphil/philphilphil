@@ -11,6 +11,9 @@ Other projects:
 - ♟️ [Spot](https://github.com/philphilphil/Spot) - (very bad) chess engine for fun.
 - 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages in discord channels.
 
+Libraries:
+- [md-todo-rs](https://github.com/philphilphil/md-todo-rs) - Rust library to gather todos in markdown files. 
+
 <!---
 philphilphil/philphilphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look atyour changes.
