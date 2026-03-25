@@ -1,5 +1,4 @@
 👋 Hi, I’m phil, software developer from Germany.
-Coding C# for work and Rust 🦀 for pleasure.
 
 I’m interested in working with markdown files hence my projects:
 - 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes.
