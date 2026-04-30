@@ -6,7 +6,7 @@ I’m interested in working with markdown files hence my projects:
 - ∧ [obsidian-standardform](https://github.com/philphilphil/obsidian-standardform) - Obsidian plugin that transforms Standard Form logical syntax into clean tables. 
 
 Other projects:
-- 🃏 [mageblitz](https://github.com/philphilphil/mageblitz) - Fast-paced chess × MTG card game. Play at [mageblitz.com](mageblitz.com)
+- 🃏 [mageblitz](https://github.com/philphilphil/mageblitz) - Fast-paced chess × MTG card game. Play at [mageblitz.com](https://mageblitz.com)
 -  🎻 [Leporello](https://github.com/philphilphil/leporello-mcp) -  Remote MCP server for Opera & Classical Music Event Schedules 
 - ♟️ [Spot](https://github.com/philphilphil/Spot) - (very bad) chess engine for fun.
 - 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages in discord channels.
