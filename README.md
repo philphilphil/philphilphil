@@ -1,11 +1,11 @@
 👋 Hi, I’m phil, software developer from Germany.
 
 My active projects:
-- 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes.
-- ∧ [obsidian-standardform](https://github.com/philphilphil/obsidian-standardform) - Obsidian plugin that transforms Standard Form logical syntax into clean tables. 
+- 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes. [fasolt.app](https://fasolt.app)
+- ∧ [obsidian-standardform](https://github.com/philphilphil/obsidian-standardform) - Obsidian plugin that transforms Standard Form logical syntax into clean tables.
+- 🏛️ [obsidian-track-changes](https://community.obsidian.md/plugins/track-changes) - Obsidian plugin to review CriticMarkup in a sidebar. Like Word/Gdocs.
 - 🃏 [mageblitz](https://github.com/philphilphil/mageblitz) - Fast-paced chess × MTG card game. Play at [mageblitz.com](https://mageblitz.com)
 -  🎻 [Leporello](https://github.com/philphilphil/leporello-mcp) -  Remote MCP server for Opera & Classical Music Event Schedules 
-- 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages in discord channels.
 
 Older abandoned projects:
 - ♟️ [Spot](https://github.com/philphilphil/Spot) - (very bad) chess engine for fun.
@@ -14,6 +14,8 @@ Older abandoned projects:
 - ⭕ [jira-to-md-todo](https://github.com/philphilphil/jira-to-md-todo) - Tiny app that synchronizes Jira tickets into a markdown file as to-dos.
 - ☑️ [modo](https://github.com/philphilphil/modo) - CLI to query todos in markdown files.
 - 📋 [downcel](https://github.com/philphilphil/downcel) - md table calculations with excel-like formulas.
+- 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages in discord channels.
+
 <!---
 philphilphil/philphilphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look atyour changes.
