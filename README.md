@@ -3,7 +3,7 @@
 My active projects:
 - 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes. [fasolt.app](https://fasolt.app)
 - ∧ [obsidian-standardform](https://github.com/philphilphil/obsidian-standardform) - Obsidian plugin that transforms Standard Form logical syntax into clean tables.
-- 🏛️ [obsidian-track-changes](https://community.obsidian.md/plugins/track-changes) - Obsidian plugin to review CriticMarkup in a sidebar. Like Word/Gdocs.
+- 🏛️ [obsidian-track-changes](https://github.com/philphilphil/obsidian-track-changes) - Obsidian plugin to review CriticMarkup in a sidebar. Like Word/Gdocs.
 - 🃏 [mageblitz](https://github.com/philphilphil/mageblitz) - Fast-paced chess × MTG card game. Play at [mageblitz.com](https://mageblitz.com)
 -  🎻 [Leporello](https://github.com/philphilphil/leporello-mcp) -  Remote MCP server for Opera & Classical Music Event Schedules 
 
