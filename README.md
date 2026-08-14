@@ -2,7 +2,7 @@
 
 ### Software Projects
 - 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes. [fasolt.app](https://fasolt.app)
-- 🃏 [mageblitz](https://github.com/philphilphil/mageblitz) - Fast-paced chess × MTG card game. Play at [mageblitz.com](https://mageblitz.com)
+- 🃏 [Battlegrid](https://github.com/philphilphil/BattleGrid) - Multi-panel reference board for tabletop (and other) games
 - 🎻 [Leporello](https://github.com/philphilphil/leporello-mcp) -  Remote MCP server for Opera & Classical Music Event Schedules 
 
 ### Obsidian Plugins
