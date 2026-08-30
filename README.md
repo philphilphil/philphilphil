@@ -1,6 +1,7 @@
 👋 Hi, I’m Phil, software developer from Germany.
 
 ### Software Projects
+- ♟️ [blunderbase](https://github.com/philphilphil/blunderbase) - Awesome personal chess database
 - 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes. [fasolt.app](https://fasolt.app)
 - 🃏 [Battlegrid](https://github.com/philphilphil/BattleGrid) - Multi-panel reference board for tabletop (and other) games
 - 🎻 [Leporello](https://github.com/philphilphil/leporello-mcp) -  Remote MCP server for Opera & Classical Music Event Schedules 
