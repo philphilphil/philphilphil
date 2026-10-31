@@ -2,7 +2,6 @@
 
 ### Software Projects
 - ♟️ [blunderbase](https://github.com/philphilphil/blunderbase) - Awesome personal chess database
-- 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes. [fasolt.app](https://fasolt.app)
 - 🃏 [Battlegrid](https://github.com/philphilphil/BattleGrid) - Multi-panel reference board for tabletop (and other) games
 - 🎻 [Leporello](https://github.com/philphilphil/leporello-mcp) -  Remote MCP server for Opera & Classical Music Event Schedules 
 
@@ -26,6 +25,7 @@
 - ☑️ [modo](https://github.com/philphilphil/modo) - CLI to query todos in markdown files.
 - 📋 [downcel](https://github.com/philphilphil/downcel) - md table calculations with excel-like formulas.
 - 💬 [discord_channel_cleaner](https://github.com/philphilphil/discord_channel_cleaner) - Deletes messages in discord channels.
+- 🧠 [fasolt](https://github.com/philphilphil/fasolt) - MCP-first spaced repetition for your notes. [fasolt.app](https://fasolt.app)
 </details>
 <!---
 philphilphil/philphilphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
